@@ -1,0 +1,163 @@
+{
+  "purpose": "",
+  "calling": "",
+  "role": "",
+  "quote": "",
+  "beliefs": [],
+  "bhag": {
+    "statement": "",
+    "why": "",
+    "by": "",
+    "target": 0
+  },
+  "horizons": [
+    {
+      "title": "Horizon 1, now, 12 months",
+      "items": [],
+      "note": ""
+    },
+    {
+      "title": "Horizon 2, 1,000 days, 3 years",
+      "items": [],
+      "note": ""
+    },
+    {
+      "title": "Horizon 3, 10 years and beyond",
+      "items": [],
+      "note": ""
+    }
+  ],
+  "dimensions": [],
+  "habits": [],
+  "disciplines": [
+    {
+      "id": "d1",
+      "rule": "Name the one move that matters, tie it to your purpose and priority rock, and protect your first focused block for it.",
+      "test": "Did I advance the BIG move before routine reactive work?",
+      "source": "Hill, Foxx"
+    },
+    {
+      "id": "d2",
+      "rule": "Make low-risk reversible decisions promptly. For consequential ones, name what you need to know and the date you will decide.",
+      "test": "Did I make the call, or name what I need to know and when I will decide?",
+      "source": "Hill, Foxx"
+    },
+    {
+      "id": "d3",
+      "rule": "Take the next courageous step before you feel ready: put a useful first version in front of the right person.",
+      "test": "What did I put in front of someone despite discomfort, and what came back?",
+      "source": "Hill"
+    },
+    {
+      "id": "d4",
+      "rule": "Protect the work that needs your judgement. Delegate outcomes with an owner, authority, standard and check-in.",
+      "test": "Did I leave ownership with the right person instead of taking the work back?",
+      "source": "Robbins, Foxx"
+    },
+    {
+      "id": "d5",
+      "rule": "Put scarce time, money and attention behind the priority rock. Say no to work that competes with it.",
+      "test": "Did my actual calendar and commitments match the priority?",
+      "source": "Robbins, Hill"
+    },
+    {
+      "id": "d6",
+      "rule": "Advance one asset, system or partnership that creates value with less dependence on you.",
+      "test": "What reusable value did I advance, and how will I know it works without me?",
+      "source": "Foxx"
+    },
+    {
+      "id": "d7",
+      "rule": "Grow one person's ownership and reinforce the standard: coach, recognise or correct, by example and never by title or fear.",
+      "test": "Where did I strengthen ownership or make the expected behaviour clear?",
+      "source": "Robbins, Hill"
+    },
+    {
+      "id": "d8",
+      "rule": "Give the person in front of you your full attention. Understand before advising, and make care and respect visible.",
+      "test": "When it mattered, did I put distractions away, check I understood and respond to what they needed?",
+      "source": "Presence"
+    },
+    {
+      "id": "d9",
+      "rule": "Give one useful act of service that strengthens a relationship for the long term, without keeping score.",
+      "test": "Who received something useful from me with no return expected?",
+      "source": "Hill, Foxx"
+    },
+    {
+      "id": "d10",
+      "rule": "Honour your word and own your impact: keep or renegotiate commitments before they are due, and repair any miss.",
+      "test": "Did I keep, or renegotiate early, every commitment that came due?",
+      "source": "Hill"
+    }
+  ],
+  "study": [
+    {
+      "name": "Napoleon Hill, Think and Grow Rich",
+      "use": "Purpose, decisions, organised action, self-control, cooperation and learning from setbacks. Re-read Desire, Decision, Organized Planning and Persistence.",
+      "url": "https://www.globalgreyebooks.com/online-ebooks/napoleon-hill_think-and-grow-rich_complete-text.html"
+    },
+    {
+      "name": "Stever Robbins, What do CEOs do?",
+      "use": "Four accountabilities: strategy and direction, culture and behaviour, the senior team, and capital allocation. It organises the weekly review.",
+      "url": "https://steverrobbins.com/articles/ceojob/"
+    },
+    {
+      "name": "JT Foxx, Billionaire vs Millionaire Thinking",
+      "use": "Challenges assumptions about scale, control and leverage. Ask: how does this grow without me? The Foxx ideas here are a synthesis, not a verified list from the book.",
+      "url": "https://jtfoxxlive.com/25"
+    },
+    {
+      "name": "Tony Robbins, goal focus and state",
+      "use": "State, gratitude and focus. Already in the morning routine, so it has no checkbox here.",
+      "url": "https://www.tonyrobbins.com/how-to-focus/goal-visualization"
+    },
+    {
+      "name": "Barbara Minto, The Pyramid Principle",
+      "use": "Answer first, grouped reasons, then evidence and its limits. The final check before any recommendation: ten checks in Focus.",
+      "url": ""
+    }
+  ],
+  "ceoReview": [
+    {
+      "q": "Where will we win, and what will we stop?",
+      "out": "One explicit priority or trade-off."
+    },
+    {
+      "q": "What did I reward or tolerate this week?",
+      "out": "One behaviour reinforced or corrected."
+    },
+    {
+      "q": "What can my senior team own without me?",
+      "out": "One clarified decision right, coaching action or accountability conversation."
+    },
+    {
+      "q": "Where should the next dollar and scarce team capacity go?",
+      "out": "One decision to fund, stop or reallocate, with a success measure."
+    },
+    {
+      "q": "Is the current plan working, and whose contrary advice do I need?",
+      "out": "One approach kept, changed or dropped, and one person to challenge it."
+    }
+  ],
+  "recommendationChecks": [
+    "Answer the actual question: what decision does this reader need to make?",
+    "Lead with one clear recommendation (\"We should do X\"). If you are uncertain, say so.",
+    "Give only the context the reader needs: the situation and the complication, briefly.",
+    "Group the supporting reasons. Use the number the argument needs, not an automatic three.",
+    "Remove overlaps and gaps: the reasons are distinct and together enough for the conclusion.",
+    "Put them in a logical order: importance, time or cause and effect.",
+    "Check the vertical logic: does each point justify the claim above it?",
+    "Attach credible evidence. Separate facts, estimates and assumptions, and link sources.",
+    "Challenge it: the strongest objection, the material trade-off and what would change your mind.",
+    "Make the next action explicit: the decision asked for, owner, timing and success measure."
+  ],
+  "recommendationPrompt": "For recommendation requests, assess the available evidence before forming a conclusion. Present the answer first in one sentence, then the minimum number of distinct supporting reasons, with evidence under each. Separate facts, assumptions and estimates. Include the strongest material objection and what would change the recommendation. Finish with the next action. Do not force three reasons, invent evidence or overstate certainty. Keep it concise.",
+  "prime": [
+    {
+      "name": "Priming: the daily habit Tony Robbins uses to boost his brain",
+      "use": "Tony Robbins, official YouTube channel.",
+      "url": "https://www.youtube.com/watch?v=faTGTgid8Uc"
+    }
+  ]
+}

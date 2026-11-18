@@ -1,0 +1,14 @@
+{
+  "_comment": "Pass this as `capabilities` when publishing the page, after removing the servers of any module that is switched off (keep it minimal). If no servers remain, leave `mcp` out. Server names must match the connector names exactly.",
+  "db": { "rules": [ { "path": "", "read": "owner", "write": "owner" } ] },
+  "user": {},
+  "sample": {},
+  "mcp": {
+    "servers": [
+      { "server": "Google Calendar", "tools": ["list_events"], "module": "calendar" },
+      { "server": "Gmail", "tools": ["search_threads"], "module": "inbox" },
+      { "server": "monday.com", "tools": ["get_board_items_page", "update_items", "create_item"], "module": "rocks.source = monday" },
+      { "server": "HubSpot", "tools": ["search_crm_objects"], "module": "pipeline.source = hubspot" }
+    ]
+  }
+}

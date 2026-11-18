@@ -1,0 +1,67 @@
+{
+  "appName": "Daily Fuel",
+  "nickname": "",
+  "timezone": "UTC",
+  "startDate": "2026-01-05",
+  "frequency": "weekdays",
+  "language": "English",
+  "writingStyle": "Plain, direct English.",
+  "locale": "en-AU",
+  "currency": {
+    "symbol": "$",
+    "code": "AUD"
+  },
+  "summit": {
+    "checkin": "06-30"
+  },
+  "owner": {
+    "name": "",
+    "email": "",
+    "about": ""
+  },
+  "calendar": true,
+  "inbox": true,
+  "people": true,
+  "agreements": true,
+  "history": {
+    "sync": false
+  },
+  "rocks": {
+    "source": "native",
+    "monday": {
+      "rocksBoardId": 0,
+      "stepsBoardId": 0,
+      "myGroupId": "",
+      "companyGroupMatch": "company rocks",
+      "workspaceUrl": "https://monday.com/",
+      "columns": {
+        "status": "status",
+        "due": "date4",
+        "stepDue": "date0",
+        "outcome": "",
+        "owner": [
+          "person"
+        ]
+      }
+    }
+  },
+  "pipeline": {
+    "source": "none",
+    "hubspot": {
+      "portalId": "",
+      "ownerId": "",
+      "pipelineId": "default",
+      "stages": {}
+    }
+  },
+  "prime": {
+    "enabled": true,
+    "parts": 0
+  },
+  "morningEmail": {
+    "enabled": false,
+    "to": "",
+    "hour": 6,
+    "artifactUrl": ""
+  }
+}
